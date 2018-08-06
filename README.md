@@ -21,6 +21,9 @@ C'est également l'occasion de découvrir Redux-form pour gérer les formulaires
 
 Dans une autre fenêtre
 > json-server --watch fillDB.js
+
+Rendez-vous sur :
+>http://localhost:8080
 ```
 
 ### Etape du projet
